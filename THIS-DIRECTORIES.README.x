@@ -1,4 +1,4 @@
-©\z/:z:;
+©\z/;:z:
 
 
  github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIES.README.x
